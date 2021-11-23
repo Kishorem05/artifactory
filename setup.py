@@ -72,3 +72,9 @@ setup(
     package_data={"": ["README.md"]},
     packages=["dohq_artifactory"],
 )
+    ],
+    zip_safe=False,
+    package_data={"": ["README.md"]},
+    packages=["dohq_artifactory"],
+)
+
